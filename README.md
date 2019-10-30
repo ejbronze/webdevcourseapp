@@ -1,3 +1,11 @@
+## Install Bootstrap
+
+- npm install react-bootstrap bootstrap
+
+## Install Node Package Module
+
+- npm install
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
