@@ -24,10 +24,7 @@ class Header extends Component {
                 </h1>
 
                 <p className="lead mb-5 text-center text-light">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non
-                  possimus ab labore provident mollitia. Id assumenda voluptate
-                  earum corporis facere quibusdam quisquam iste ipsa cumque unde
-                  nisi, totam quas ipsam.
+                  I'm a Computer Ccience teacher based out of New York City.
                 </p>
               </div>
             </div>
