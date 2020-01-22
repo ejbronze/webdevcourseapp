@@ -19,11 +19,11 @@ class Features extends Component {
                 Find out what teachers have to say!
               </p>
             </div>
-            <div className="card-footer text-center">
+            {/* <div className="card-footer text-center">
               <a href="#" className="btn btn-primary">
                 Find Out More!
               </a>
-            </div>
+            </div> */}
           </div>
         </div>
 
