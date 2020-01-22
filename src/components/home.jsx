@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import Navibar from "./navbar";
-import Trending from "./trending";
 import Header from "./header";
 import Footer from "./footer";
+import Features from "./features";
 
 class Home extends Component {
   render() {
@@ -11,7 +11,7 @@ class Home extends Component {
         {" "}
         <Navibar />
         <Header />
-        <Trending />
+        <Features />
         <Footer />
       </div>
     );

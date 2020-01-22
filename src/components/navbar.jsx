@@ -15,7 +15,8 @@ class Navibar extends Component {
       <div>
         <Navbar bg="secondary" variant="dark">
           <Navbar.Brand href="#home">
-            <img src={Logo} width="15%" />
+            {/* <img src={Logo} width="15%" /> */}
+            <h1>Edurator</h1>
           </Navbar.Brand>
           <Nav className="mr-auto">
             <Nav.Link href="#Home">Home</Nav.Link>
