@@ -13,7 +13,7 @@ class Navibar extends Component {
   render() {
     return (
       <div>
-        <Navbar bg="secondary" variant="dark">
+        <Navbar>
           <Navbar.Brand href="#home">
             {/* <img src={Logo} width="15%" /> */}
             <h1>Edurator</h1>
