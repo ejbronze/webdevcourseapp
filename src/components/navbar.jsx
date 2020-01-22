@@ -7,7 +7,8 @@ import {
   Button
   //   FormGroup
 } from "react-bootstrap";
-import Logo from "./images/logo.png";
+
+// import Logo from "./images/logo.png";
 
 class Navibar extends Component {
   render() {
