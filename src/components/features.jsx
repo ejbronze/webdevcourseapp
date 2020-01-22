@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+//Photo Imports
+import RatingIcon from "./images/iconsets/PNG/512/2620506 - employee_job rating_seeker unemployee_work.png";
 //add scraper function
 
 class Features extends Component {
@@ -8,13 +10,8 @@ class Features extends Component {
         <div className="col-lg-3 mb-5">
           <div className="card h-100">
             <div className="card-body">
-              <h4 className="card-title text-center">Card title</h4>
+              <img className="card-img-top" src={RatingIcon} alt="" />
             </div>
-            <img
-              className="card-img-top"
-              src="http://placehold.it/300x200"
-              alt=""
-            />
             <div className="card-body">
               <p className="card-text">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
@@ -28,6 +25,7 @@ class Features extends Component {
             </div>
           </div>
         </div>
+
         <div className="col-lg-3 mb-5">
           <div className="card h-100">
             <div className="card-body">
