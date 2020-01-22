@@ -20,8 +20,10 @@ class Header extends Component {
         {/* <header style={headerStyle} className="py-5 mb-5"> */}
         <header style={headerStyle} className="py-5 mb-5">
           <div className="container h-100">
-            <div className="row h-100 align-items-center bg-dark">
-              <div className="col-lg-12"></div>
+            <div className="row h-100 align-items-center">
+              <div className="col-lg-12">
+                <h1>EduRator</h1>
+              </div>
             </div>
           </div>
         </header>
